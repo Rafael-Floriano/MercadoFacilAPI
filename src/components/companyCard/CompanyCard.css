@@ -1,1 +1,42 @@
+body {
+    background-color: #993399;
+}
 
+.conteiner-card_company {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column !important;
+    gap: 20px;
+}
+
+.conteiner-logo_company {
+    margin-bottom: 4vh;
+}
+
+.conteiner-card_tailwind {
+    padding: 5vw 10vw;
+}
+
+.config-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+    padding: 2vh;
+}
+
+.conteiner-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2vw;
+}
+
+.conteiner-primary-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    gap: 30px;
+}
